@@ -1,5 +1,9 @@
 # 💫 About Me:
-I have a Bachelor's degree in Informatics from Telkom University, where I learned the fundamentals of logical programming, database management, web development, and software engineering. I have also obtained certifications in web programming, front-end development, and JavaScript from Dicoding Academy and Coursera, respectively, to enhance my skills and knowledge in this field.<br><br>I am passionate about creating web applications that are innovative, functional, and user-centric, and that can support the business needs and goals of my clients and stakeholders. I enjoy working with a team of talented and motivated developers, and I always strive to learn new things and improve myself as a professional.<br><br>I am also involved in creating a front-end web application that enables uploading files containing transaction details from SafeWatch, a system that screens transactions for potential blacklist matches, and displaying the results in a user-friendly interface. I use React and .Net technologies to develop this web application, as well as other tools such as Visual Studio, Git, Bootstrap, and IIS Server.
+I’m a backend developer with over 3 years of experience, mainly working on enterprise-scale financial applications. I focus on backend development using .NET, with experience in building APIs, handling business logic, working with data, and making sure systems run smoothly and reliably.
+
+Although my main strength is in backend, I’ve also worked on frontend development using React.js when needed. I’m familiar with JWT and Keycloak for secure login, role-based access control, and setup ELK stack for logging and monitoring tools to help find and fix issues in production.
+
+I like writing clean and easy-to-maintain code, and I enjoy building systems that are useful for real users. I’m always open to learning new things and doing my best to support the team.
 
 
 ## 🌐 Socials:
